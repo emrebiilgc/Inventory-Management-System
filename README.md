@@ -4,7 +4,7 @@ The Inventory Management System is a Java-based application designed to efficien
 
 Key functionalities include:
 
-Add Operation: Allows adding items with specific attributes (e.g., name, barcode, and price).
+Add Operation: Allows adding items with specific attributes 
 Remove Operation: Removes an item by its unique barcode if it exists in the inventory.
 Search Operations: Facilitates searching for items by barcode or name, providing detailed outputs.
 Display Operation: Lists all items in the inventory, organized by category (Books, Toys, and then Stationery).
